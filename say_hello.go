@@ -1,5 +1,5 @@
 package go_say_hello
 
-func SayHello() string {
-	return "Hello from module update"
+func SayHello(name string) string {
+	return "My name is " + name
 }

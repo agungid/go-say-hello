@@ -1,3 +1,3 @@
-module github.com/agungid/go-say-hello
+module github.com/agungid/go-say-hello/v2
 
 go 1.18
